@@ -7,3 +7,4 @@ class CreateGenres < ActiveRecord::Migration
     end
   end
 end
+ 
